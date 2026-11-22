@@ -4,4 +4,4 @@
 
 Для просмотра откройте `index.html` в браузере.
 
-[Репозиторий проекта](https://github.com/Glashiii/ono-tebe-nado-ad)
+Репозиторий https://github.com/Glashiii/ono-tebe-nado-ad
